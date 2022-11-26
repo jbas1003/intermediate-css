@@ -8,6 +8,8 @@
 
 .bio-wrapper {
     font-size: 24px;
+    height: 300px;
+    overflow: scroll;
 }
 
 .bio-wrapper:after {
