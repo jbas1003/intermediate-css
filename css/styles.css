@@ -10,6 +10,7 @@
     font-size: 24px;
     height: 300px;
     overflow: scroll;
+    background: #c0e0c3;
 }
 
 .bio-wrapper:after {
