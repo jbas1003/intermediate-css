@@ -1,3 +1,12 @@
+.social-list {
+    list-style: none;
+    padding: 0;
+}
+
+.social-list>li {
+    display: inline-block;
+}
+
 .bio-box {
     border: 1px solid black;
     float: left;
