@@ -12,14 +12,26 @@
     float: left;
     font-size: 1rem;
     padding: 2%;
-    width: 21%;
+    width: 23%;
     box-sizing: border-box;
-    margin: 2%;
+    margin: 1%;
+}
+
+.bio-box img {
+    width: 100%;
+}
+
+.bio-box h3 {
+    text-align: center;
+    color: white;
+    margin: -40px 0 1rem;
 }
 
 .bio-wrapper {
     font-size: 24px;
     background: #c0e0c3;
+    max-width: 960px;
+    margin: auto;
 }
 
 .bio-wrapper:after {
